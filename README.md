@@ -36,4 +36,9 @@ This project demonstrates a password-protected system using two LPC2138 microcon
     - The master device will send the password to the slave device via UART.
     - The slave device will verify the password and send back a success or failure response.
     - The master device will display the result on the LCD and operate the motor accordingly.
+      
+## Contact
+
+   - Author: [Rushi Kharmate]
+   - Email: [rushirajekharmate@gmail.com]
 
